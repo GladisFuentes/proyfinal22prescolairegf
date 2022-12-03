@@ -1,0 +1,140 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #000357;
+}
+
+.Menu{
+  display: inline-block;
+  margin-left: 8px;
+  padding: 10px;
+}
+
+.Menu p{
+  position: absolute;
+  margin: 0px;
+  padding: 5px;
+  display: inline-block;
+  font-size: 35px;
+  color: white;
+  }
+
+.Re1{
+  display: inline-block;
+  position: absolute;
+  left: 950px;
+  padding: 5px;
+}
+.Re2{
+  display: inline-block;
+  position: absolute;
+  left: 1000px;
+  padding: 5px;
+}
+.Re3{
+  display: inline-block;
+  position: absolute;
+  left: 1050px;
+  padding: 5px;
+}
+.Re4{
+  display: inline-block;
+  position: absolute;
+  left: 1100px;
+  padding: 5px;
+}
+.R5{
+  display: inline-block;
+  position: absolute;
+  left: 1164px;
+  padding: 8px 45px;
+  top: 17px;
+  font-size: 17px;
+  color: white;
+  background-color: #A8CA55;
+  list-style-image: none;
+  text-decoration: none;
+}
+.R6{
+  display: inline-block;
+  position: absolute;
+  left: 1325px;
+  padding: 8px 18px;
+  top: 17px;
+  font-size: 17px;
+  color: black;
+  background-color: #F4D03D;
+  list-style-image: none;
+  text-decoration: none;
+}
+.R5:hover{
+  background: #E2FF9B;
+  color: gray;
+}
+.R6:hover{
+  background: #FEDF69;
+  color: gray;
+}
+.Menu2{
+  background-color: white;
+  list-style-image: none;
+  margin: 0px;
+  padding: 0px;
+}
+.Menu2 li{
+  display: inline-block;
+
+}
+.Menu2 li a{
+  margin: 0px;
+  padding: 0px;
+  padding: 13px 40px;
+  display: inline-block;
+  color: black;
+  font-size: 18px;
+  list-style-type: none;
+  text-decoration: none;
+}
+.Menu2 li a:hover{
+  background: gray;
+  color: white;
+}
+.R7{
+  margin-left: 0px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Cont{
+  padding: 0px 70px;
+  background-color: white;
+  font-size: 40px;
+  margin-top: -20px;
+  color: orange;
+}
+.Cont p{
+  font-size: 25px;
+  color: black;
+}
+.Cont li{
+  font-size: 20px;
+  color: black;
+}
+
+.I1{
+  position: absolute;
+  top: 1190px;
+  margin-left: 960px;
+}
+.I2{
+  position: absolute;
+  top: 95px;
+  margin-left: 1250px;
+}
+.Final{
+  padding: 10px 10px;
+  background-color: black;
+  margin-top: -20px;
+  color: gray;
+  font-size: 25px;
+}

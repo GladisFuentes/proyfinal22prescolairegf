@@ -1,0 +1,54 @@
+body{
+  background-color: #8E4300;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Menu2{
+  background-color: white;
+  list-style-image: none;
+  margin: 0px;
+  padding: 0px;
+}
+.Menu2 li{
+  display: inline-block;
+
+}
+.Menu2 li a{
+  margin: 0px;
+  padding: 0px;
+  padding: 13px 40px;
+  display: inline-block;
+  color: black;
+  font-size: 18px;
+  list-style-type: none;
+  text-decoration: none;
+}
+.Menu2 li a:hover{
+  background: gray;
+  color: white;
+}
+.N1{
+  font-size: 50px;
+  color: Orange;
+}
+
+.Conte{
+  color: white;
+  font-size: 20px;
+  padding: 0px 55px;
+  margin-right: 100px;
+}
+.Final{
+  padding: 10px 10px;
+  background-color: black;
+  margin-top: -20px;
+  color: gray;
+  font-size: 25px;
+}
+
+.I5{
+  position: absolute;
+  top: 70px;
+  left: 870px;
+}
